@@ -1,0 +1,12 @@
+
+twilio recovery code 1P3EXD3UDFU3RE8VB38UPR5Z
+
+🎉 Congratulations! You’ve got a Twilio phone number!
+
++18283980104
+
+Account SID= AC25a5b3710d2eb2c2e4e877f4393e2b84
+
+Auth Token=7a97719f46ba4494ac33cf13c1f93130
+
+My Twilio phone number=+18283980104
